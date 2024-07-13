@@ -5,7 +5,7 @@ A script to merge KiCad symbol libraries.
 ## Installation
 
 ```sh
-pip install combine_libs
+pip install merge-kicad-sym
 ```
 
 ## Usage
